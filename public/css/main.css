@@ -26,3 +26,23 @@ li a{
     text-decoration: none;
     padding: 14px 16px;
 }
+
+.userMessage {
+    text-align: right;
+    background-color: #DCF8C6;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 100%;
+    border-right: none;
+    
+}
+.chatbotmessage {
+    text-align: left;
+    background-color: #F1F0F0;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 100%;
+  
+}
